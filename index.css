@@ -7,6 +7,9 @@ body {
   background-color: #c6c6c6;
 }
 
+.main-content {
+}
+
 .container {
   display: flex;
   flex-direction: column;
@@ -78,7 +81,7 @@ body {
 
 .header-logo {
   display: flex;
-  padding: 20px 5px;
+  padding: 20px 2px;
   justify-content: space-between;
   width: 370px;
   margin: 0 auto;
